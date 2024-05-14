@@ -15,7 +15,7 @@ public class PalindromNum {
     }
 
     public static void main(String[] args) {
-        int num = 121211;
+        int num = 12121;
         System.out.println(isPalindrome(num));
     }
 }
